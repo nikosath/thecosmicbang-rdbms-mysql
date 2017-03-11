@@ -1,1 +1,2 @@
-# My solutions to the MySQL task assignments for the Full Stack Developer training program (by The Cosmic Bang)
+# Description
+My solutions to the MySQL task assignments for the Full Stack Developer training program of TheCosmicBang.
